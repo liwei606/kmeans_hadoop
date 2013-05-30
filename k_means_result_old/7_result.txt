@@ -1,0 +1,21 @@
+Average Distoration: 1.16647
+Points: 0 in cluster: 1
+Points: 1 in cluster: 1
+Points: 2 in cluster: 1
+Points: 3 in cluster: 2
+Points: 4 in cluster: 2
+Points: 5 in cluster: 2
+Points: 6 in cluster: 1
+Points: 7 in cluster: 4
+Points: 8 in cluster: 1
+Points: 9 in cluster: 2
+Points: 10 in cluster: 1
+Points: 11 in cluster: 3
+Points: 12 in cluster: 1
+Points: 13 in cluster: 1
+Points: 14 in cluster: 3
+Points: 15 in cluster: 3
+Points: 16 in cluster: 2
+Points: 17 in cluster: 3
+Points: 18 in cluster: 4
+Points: 19 in cluster: 3
